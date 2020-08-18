@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">100698992478-k0hq3gr3efolvj5taov2pcgv0psco6ae.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myweatherapp-f2380.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">100698992478</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlS5QfvFW_5kmnsDKMRvYxMDi3oQpYShs</string>
+    <string name="google_app_id" translatable="false">1:100698992478:android:32a13c741fd24f09</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlS5QfvFW_5kmnsDKMRvYxMDi3oQpYShs</string>
+    <string name="google_storage_bucket" translatable="false">myweatherapp-f2380.appspot.com</string>
+    <string name="project_id" translatable="false">myweatherapp-f2380</string>
+</resources>
